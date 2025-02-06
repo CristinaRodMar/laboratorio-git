@@ -1,0 +1,19 @@
+{
+  "name": "laboratorio-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristinaRodMar/laboratorio-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristinaRodMar/laboratorio-git/issues"
+  },
+  "homepage": "https://github.com/CristinaRodMar/laboratorio-git#readme"
+}
